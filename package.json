@@ -1,0 +1,17 @@
+{
+  "name": "mural-testemunho",
+  "version": "1.0.0",
+  "description": "Mural de Testemunhos - Compartilhe a Fidelidade de Deus",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": ["testemunhos", "faith", "testimonials"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
+
